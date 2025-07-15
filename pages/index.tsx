@@ -7,7 +7,7 @@ export default function Home() {
 				<link href="https://fonts.googleapis.com/css2?family=Geist&display=swap" rel="stylesheet" />
 			</Head>
 			<main>
-				<h1 style={{ fontFamily: 'Geist, sans-serif' }}>Hello World</h1>
+				<h1 style={{ fontFamily: 'Geist, sans-serif' }}>Learn nextjs - xin chào mọi người</h1>
 			</main>
 		</>
 	)
